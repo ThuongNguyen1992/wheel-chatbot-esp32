@@ -1,0 +1,9 @@
+{
+    "type": "wheel-chatbot",
+    "target": "esp32s3",
+    "builds": [
+        {
+            "name": "wheel-chatbot"
+        }
+    ]
+}
